@@ -1,0 +1,21 @@
+{
+  "name": "phaser3-hexoscope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html -p 8000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-reporter-static-files-copy": "^1.5.0",
+    "phaser": "^3.60.0",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "@types/webfontloader": "^1.6.35",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
