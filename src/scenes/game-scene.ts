@@ -21,6 +21,7 @@ export default class GameScene extends Scene {
             new HexagonTile(this, 680, 200, 'data', 'hexagon1'),
             new HexagonTile(this, 760, 200, 'data', 'hexagon1'),
             new HexagonTile(this, 840, 200, 'data', 'hexagon1'),
+            new HexagonTile(this, 920, 200, 'data', 'hexagon1'),
             
             new HexagonTile(this, 1080, 200, 'data', 'hexagon1'),
             new HexagonTile(this, 1160, 200, 'data', 'hexagon1'),
